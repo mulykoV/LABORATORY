@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebProgramingLAB3", "WebProgramingLAB3\WebProgramingLAB3.csproj", "{16391124-675A-4647-8FC5-260BE8146645}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4447EE2A-B05B-4209-B829-8AA9483C71C5}"
+	ProjectSection(SolutionItems) = preProject
+		WEBLAB3.html = WEBLAB3.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16391124-675A-4647-8FC5-260BE8146645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16391124-675A-4647-8FC5-260BE8146645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16391124-675A-4647-8FC5-260BE8146645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16391124-675A-4647-8FC5-260BE8146645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BABEDE97-860C-477E-98C2-5B345967F163}
+	EndGlobalSection
+EndGlobal
