@@ -1,0 +1,16 @@
+﻿.rectangle
+{
+    height: 350px;
+    width: 1000px;
+    background-color: #9A2A2A;
+}
+
+.limited-width {
+    max-width: 1000px;
+    font-size: 2vw;
+    margin: 0px auto;
+}
+
+#hr {
+    color: #9A2A2A;
+}
